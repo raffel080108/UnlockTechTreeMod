@@ -10,9 +10,6 @@ assignees: raffel080108
 **Plugin version**
 The version of the plugin you are using
 
-**Server Software & Version**
-Type /version on your server and paste the result here
-
 **Description of the bug**
 Description of the bug or whatever is going wrong
 
