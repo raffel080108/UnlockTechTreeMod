@@ -7,8 +7,8 @@ assignees: raffel080108
 
 ---
 
-**Plugin version**
-The version of the plugin you are using
+**Mod version**
+The version of the mod you are using
 
 **Description of the bug**
 Description of the bug or whatever is going wrong
