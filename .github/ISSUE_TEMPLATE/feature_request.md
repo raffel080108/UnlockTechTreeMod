@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: You have a suggestion/request to add a feature or change something in the plugin
+about: You have a suggestion/request to add a feature or change something in the mod
 title: ''
 labels: Feature Request
 assignees: raffel080108
